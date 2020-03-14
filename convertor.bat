@@ -1,0 +1,1 @@
+pyuic5 vishlist.ui -o vishlist.py
